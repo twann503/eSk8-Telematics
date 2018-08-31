@@ -27,3 +27,6 @@ App features
 
 https://betatestesk8.herokuapp.com/
 visit here to try out the app!
+
+beta test is over, app is officaly on app store
+https://itunes.apple.com/us/app/xmatic-electric-skateboard/id1382937037?ls=1&mt=8
